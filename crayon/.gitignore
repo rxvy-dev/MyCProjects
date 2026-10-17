@@ -1,0 +1,8 @@
+*.o
+/square
+/gallery
+/hello
+/commands
+/pictures
+/game
+/search
